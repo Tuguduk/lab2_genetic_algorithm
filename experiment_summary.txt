@@ -1,0 +1,11 @@
+Лабораторная работа 2, вариант 8
+20 запусков на конфигурацию; 100 поколений; популяция 100; 10000 оценок на запуск.
+
+                     best_score  mean_score  median_score  std_score  worst_score  feasible_rate  mean_overload
+algorithm                                                                                                      
+GA_penalty_reassign      85.000      81.550        81.000      1.356       80.000          1.000          0.000
+GA_repair_reassign       89.000      89.000        89.000      0.000       89.000          1.000          0.000
+GA_repair_swap           89.000      88.950        89.000      0.224       88.000          1.000          0.000
+Random_feasible          81.000      78.500        78.500      1.395       76.000          1.000          0.000
+
+Best score: 89.0; method: GA_repair_reassign

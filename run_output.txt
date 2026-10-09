@@ -1,0 +1,95 @@
+GA_repair_reassign, запуск 01: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 02: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 03: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 04: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 05: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 06: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 07: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 08: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 09: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 10: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 11: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 12: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 13: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 14: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 15: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 16: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 17: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 18: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 19: score=89.0; feasible=True; overload=0
+GA_repair_reassign, запуск 20: score=89.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 01: score=81.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 02: score=83.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 03: score=82.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 04: score=81.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 05: score=80.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 06: score=81.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 07: score=81.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 08: score=82.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 09: score=80.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 10: score=85.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 11: score=81.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 12: score=80.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 13: score=82.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 14: score=82.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 15: score=81.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 16: score=81.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 17: score=83.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 18: score=81.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 19: score=84.0; feasible=True; overload=0
+GA_penalty_reassign, запуск 20: score=80.0; feasible=True; overload=0
+GA_repair_swap, запуск 01: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 02: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 03: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 04: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 05: score=88.0; feasible=True; overload=0
+GA_repair_swap, запуск 06: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 07: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 08: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 09: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 10: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 11: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 12: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 13: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 14: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 15: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 16: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 17: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 18: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 19: score=89.0; feasible=True; overload=0
+GA_repair_swap, запуск 20: score=89.0; feasible=True; overload=0
+Random_feasible, запуск 01: score=78.0; feasible=True
+Random_feasible, запуск 02: score=78.0; feasible=True
+Random_feasible, запуск 03: score=80.0; feasible=True
+Random_feasible, запуск 04: score=76.0; feasible=True
+Random_feasible, запуск 05: score=78.0; feasible=True
+Random_feasible, запуск 06: score=78.0; feasible=True
+Random_feasible, запуск 07: score=79.0; feasible=True
+Random_feasible, запуск 08: score=80.0; feasible=True
+Random_feasible, запуск 09: score=79.0; feasible=True
+Random_feasible, запуск 10: score=79.0; feasible=True
+Random_feasible, запуск 11: score=79.0; feasible=True
+Random_feasible, запуск 12: score=77.0; feasible=True
+Random_feasible, запуск 13: score=79.0; feasible=True
+Random_feasible, запуск 14: score=81.0; feasible=True
+Random_feasible, запуск 15: score=78.0; feasible=True
+Random_feasible, запуск 16: score=77.0; feasible=True
+Random_feasible, запуск 17: score=78.0; feasible=True
+Random_feasible, запуск 18: score=81.0; feasible=True
+Random_feasible, запуск 19: score=76.0; feasible=True
+Random_feasible, запуск 20: score=79.0; feasible=True
+\nСводная статистика:
+                     best_score  mean_score  median_score  std_score  worst_score  feasible_rate  mean_overload
+algorithm                                                                                                      
+GA_penalty_reassign      85.000      81.550        81.000      1.356       80.000          1.000          0.000
+GA_repair_reassign       89.000      89.000        89.000      0.000       89.000          1.000          0.000
+GA_repair_swap           89.000      88.950        89.000      0.224       88.000          1.000          0.000
+Random_feasible          81.000      78.500        78.500      1.395       76.000          1.000          0.000
+\nЛучшее допустимое назначение: GA_repair_reassign score= 89.0
+             project  capacity  assigned                                                   students
+                  AI         5         5 Студент_01, Студент_03, Студент_09, Студент_11, Студент_14
+     Computer_Vision         4         4             Студент_04, Студент_07, Студент_10, Студент_17
+       Data_Analysis         4         4             Студент_06, Студент_15, Студент_16, Студент_18
+            Robotics         4         4             Студент_02, Студент_05, Студент_12, Студент_20
+Software_Engineering         5         3                         Студент_08, Студент_13, Студент_19
+\nВсе запуски: 80 Статистика сохранена в summary.csv

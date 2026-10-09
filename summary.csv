@@ -1,0 +1,5 @@
+﻿algorithm,best_score,mean_score,median_score,std_score,worst_score,feasible_rate,mean_overload
+GA_penalty_reassign,85.0,81.55,81.0,1.3562719801759986,80.0,1.0,0.0
+GA_repair_reassign,89.0,89.0,89.0,0.0,89.0,1.0,0.0
+GA_repair_swap,89.0,88.95,89.0,0.2236067977499812,88.0,1.0,0.0
+Random_feasible,81.0,78.5,78.5,1.3954814298487217,76.0,1.0,0.0
